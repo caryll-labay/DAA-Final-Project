@@ -1,4 +1,4 @@
-# CS221 Final Project - [Hybrid Packing Algorithm: Optimizing Space Utilization and Suitcase Efficiency]
+# CS221 Final Project - Hybrid Packing Algorithm: Optimizing Space Utilization and Suitcase Efficiency
 
 ## Team Members
 
